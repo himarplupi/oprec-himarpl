@@ -60,7 +60,7 @@ export const departmentBadan: DepartmentBadan[] = [
       },
       {
         id: "03",
-        name: "Irena Silmi Azizah",
+        name: "Irenia Maisa Kamila",
       },
       {
         id: "04",
@@ -129,10 +129,10 @@ export const departmentBadan: DepartmentBadan[] = [
     staff: [
       { id: "01", name: "Aziz Hardiyan" },
       { id: "02", name: "Firdaus Akmal Budiman" },
-      { id: "03", name: "Muhammad Arfa Ghaisan" },
-      { id: "04", name: "Muhammad Azzuri Sulthan Aulia Wahab" },
-      { id: "05", name: "Salwa Nur Amelia Suhendar" },
-      { id: "06", name: "Utami Trisna Kinanti" },
+      { id: "03", name: "Muhammad Azzuri Sulthan Aulia Wahab" },
+      { id: "04", name: "Salwa Nur Amelia Suhendar" },
+      { id: "05", name: "Utami Trisna Kinanti" },
+      { id: "06", name: "Muhammad Rizky Fadhilah" },
     ],
   },
   {
@@ -143,7 +143,7 @@ export const departmentBadan: DepartmentBadan[] = [
       phone: "+6285156468331",
       image: psdo,
       metadata: {
-        skill: "Ketuplak",
+        skill: "Cape",
         stats: 5,
         description: "Kami bukan cuma bikin acara, kami juga bikin trauma... tapi yang bisa dijual di CV kamu!",
       },
@@ -151,27 +151,27 @@ export const departmentBadan: DepartmentBadan[] = [
     staff: [
       {
         id: "01",
-        name: "Bintang",
+        name: "Berlianda Muhammad Putra",
       },
       {
         id: "02",
-        name: "",
+        name: "Lina Lisnawati",
       },
       {
         id: "03",
-        name: "",
+        name: "Muhammad Arkan Athaya",
       },
       {
         id: "04",
-        name: "",
+        name: "Muhammad Arfa Ghaisan",
       },
       {
         id: "05",
-        name: "",
+        name: "Rafli Ahmad Fauzi",
       },
       {
         id: "06",
-        name: "",
+        name: "Zahra Amelia Ramadhani",
       },
     ],
   },
@@ -233,7 +233,7 @@ export const departmentBadan: DepartmentBadan[] = [
     },
     staff: [
       { id: "01", name: "Adi Surya Nugroho" },
-      { id: "02", name: "Ahmad Fuad" },
+      { id: "02", name: "Ahmad Fuad Mubarak" },
       { id: "03", name: "Keidjaru Axiro" },
       { id: "04", name: "Muhammad Ihsan Ansori" },
       { id: "05", name: "Muhammad Ikbal Ramadhan" },
@@ -286,9 +286,10 @@ export const departmentBadan: DepartmentBadan[] = [
       },
     },
     staff: [
-      { id: "01", name: "Lazzuardi Langga Duta Wijaya" },
+      { id: "01", name: "Irena Silmi Azizah" },
       { id: "02", name: "Muhamad Rizki" },
       { id: "03", name: "Rafa Mirza Firdaus" },
+      { id: "04", name: "Najahah Patin" },
     ],
   },
   {
@@ -309,6 +310,7 @@ export const departmentBadan: DepartmentBadan[] = [
       { id: "02", name: "Kresna Hono Putro" },
       { id: "03", name: "Nandana Rafi Ardika" },
       { id: "04", name: "Zahran Faiz Salman" },
+      { id: "05", name: "Janitra Alvito Zahir" },
     ],
   },
   {
@@ -324,6 +326,20 @@ export const departmentBadan: DepartmentBadan[] = [
         description: "Si pengawas setia yang memastikan kinerja Badan Eksekutif tetap lurus sesuai visi dan misi HIMARPL.",
       },
     },
-    staff: [{ id: "01", name: "Aloudya Fathya Azzahra" }],
+    staff: [
+      { id: "01", name: "Aloudya Fathya Azzahra" },
+      { id: "02", name: "Aziza Putri Amelia" },
+      { id: "03", name: "Fursan Nahr" },
+      { id: "04", name: "Luthfil Hadi Surya Pangestu" },
+      { id: "05", name: "Muhammad Rayyan Firmansyah" },
+      { id: "06", name: "Muhammad Yasir Royyan" },
+      { id: "07", name: "Moch. Rafie Candra Fahrizal" },
+      { id: "08", name: "Natasya Ramadhani" },
+      { id: "09", name: "Niranti Salmanabilah" },
+      { id: "10", name: "Raden Hamizan Rizky Kusuma" },
+      { id: "11", name: "Rifa Fachri Ramadhan" },
+      { id: "12", name: "Haidar Atqiya Rahman" },
+      { id: "13", name: "Lazzuardi Langga Duta Wijaya" },
+    ],
   },
 ];

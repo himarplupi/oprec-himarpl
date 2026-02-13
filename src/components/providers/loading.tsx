@@ -33,7 +33,7 @@ export function Loading({ children }: { children: React.ReactNode }) {
   }, [isSoundPlaying, soundBg]);
 
   const handlePlaySound = () => {
-    const audio = new Audio("/assets/sound.mp3");
+    const audio = new Audio("/assets/sound.mpeg");
     setSoundBg(audio);
   };
 
