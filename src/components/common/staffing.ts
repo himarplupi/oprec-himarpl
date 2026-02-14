@@ -194,6 +194,7 @@ export const departmentBadan: DepartmentBadan[] = [
       { id: "03", name: "Muhammad Abyan Daryansyah" },
       { id: "04", name: "Muhammad Fadil Tallei" },
       { id: "05", name: "Rifqi Alfyanto Khaiirunnas" },
+      { id: "06", name: "Adzril Ilham Ramadhan" },
     ],
   },
   {
