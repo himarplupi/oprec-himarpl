@@ -35,7 +35,7 @@ This repository contains the source code for the <a href="https://pengurus26.him
 
 ## Deployment
 
-This website is automatically deployed to <a href="https://vercel.com">Vercel</a> via GitHub Actions integration when there is a new push to the `main` branch.
+This website is automatically deployed to <a href="https://vercel.com">Vercel</a> via GitHub Actions integration when there is a new push to the `master` branch.
 
 The current integration is owned and managed by the Website Team in the HIMARPL Kominfo Department.
 
