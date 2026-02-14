@@ -25,7 +25,7 @@ export type DepartmentBadan = {
   kepala: {
     name: string;
     phone: string;
-    image: StaticImageData | null;
+    image: string;
     metadata: {
       skill: string;
       stats: number;
@@ -42,7 +42,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Firzah Ghania",
       phone: "+6287726737902",
-      image: adkes,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/adkes.png",
       metadata: {
         skill: "LPJ",
         stats: 1,
@@ -78,7 +78,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Resti Fujianti",
       phone: "+6285866521392",
-      image: keuangan,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/keuangan.png",
       metadata: {
         skill: "Duit",
         stats: 2,
@@ -98,7 +98,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Dzaky Alfiansyah",
       phone: "+6289523394944",
-      image: advokastra,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/advo.png",
       metadata: {
         skill: "Demo",
         stats: 3,
@@ -119,7 +119,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Mukhammad Vicky",
       phone: "+628989011081",
-      image: ppm,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/ppm.png",
       metadata: {
         skill: "Rakyat",
         stats: 4,
@@ -141,7 +141,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Kautsar",
       phone: "+6285156468331",
-      image: psdo,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/psdo.png",
       metadata: {
         skill: "Cape",
         stats: 5,
@@ -181,7 +181,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Mirachel Cindejona",
       phone: "+628986942714",
-      image: ekraf,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/ekraf.png",
       metadata: {
         skill: "Dagang",
         stats: 6,
@@ -192,7 +192,7 @@ export const departmentBadan: DepartmentBadan[] = [
       { id: "01", name: "Alfan Aditiansyah" },
       { id: "02", name: "Atsiila Kaysa Asyraf" },
       { id: "03", name: "Muhammad Abyan Daryansyah" },
-      { id: "04", name: "Muhamad Fadil Talei" },
+      { id: "04", name: "Muhammad Fadil Tallei" },
       { id: "05", name: "Rifqi Alfyanto Khaiirunnas" },
     ],
   },
@@ -202,7 +202,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Bintang Kurniawan",
       phone: "+6287823151803",
-      image: kominfo,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/kominfo.png",
       metadata: {
         skill: "Dokum",
         stats: 7,
@@ -224,7 +224,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Nabil Rizky",
       phone: "+62895385300554",
-      image: mikat,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/be/mikat.png",
       metadata: {
         skill: "Minat",
         stats: 8,
@@ -248,7 +248,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Malyhah Azizah",
       phone: "+6285971738143",
-      image: sekretaris,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/dp/sekretarisdp.png",
       metadata: {
         skill: "Surat",
         stats: 9,
@@ -263,7 +263,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Hilmi Mithwa",
       phone: "+6281222130032",
-      image: bendahara,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/dp/bendaharadp.png",
       metadata: {
         skill: "Duit",
         stats: 10,
@@ -278,7 +278,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Mursyid Daniswara",
       phone: "+628119223717",
-      image: baleg,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/dp/baleg.png",
       metadata: {
         skill: "Sidang",
         stats: 11,
@@ -298,7 +298,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Fikri Raditya",
       phone: "+6285174081352",
-      image: burta,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/dp/burta.png",
       metadata: {
         skill: "Open Bid",
         stats: 12,
@@ -319,7 +319,7 @@ export const departmentBadan: DepartmentBadan[] = [
     kepala: {
       name: "Vina Nur Nisa",
       phone: "+6285802937316",
-      image: komisi,
+      image: "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@main/images/pimpinan-2026/dp/komisi.png",
       metadata: {
         skill: "Admin",
         stats: 13,

@@ -170,7 +170,7 @@ export function KelompokSection() {
 
           <div className="relative max-w-172 mb-6 w-full h-full border-r border-l border-[#B789FF]">
             <div className="absolute -bottom-32 left-0 right-0 -z-10 flex justify-center">
-              {group?.kepala?.image && <Image src={group?.kepala?.image} alt={group?.kepala?.name} className="h-137.5 w-full object-scale-down object-bottom drop-shadow-[0_0_30px_rgba(114,38,255)]" />}
+              {group?.kepala?.image && <Image src={group?.kepala?.image} alt={group?.kepala?.name} width={172} height={550} className="h-137.5 w-full object-scale-down object-bottom drop-shadow-[0_0_30px_rgba(114,38,255)]" />}
             </div>
           </div>
           <div className="bg-[linear-gradient(60deg,rgba(1,0,48,0.8)0%,rgba(2,0,99,0.6)50%,rgba(1,0,48,0.8)100%)] border border-[#B789FF] max-w-172 w-full flex flex-col gap-5  md:p-6 p-2 backdrop-blur-[73px]">
