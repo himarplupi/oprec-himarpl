@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.himarpl.org">himarpl.org</a> built using Next JS.
+  <a href="https://pengurus26.himarpl.org">pengurus26.himarpl.org</a> built using Next JS.
 
 </p>
 
@@ -31,7 +31,7 @@
 
 ## What is this repository?
 
-This repository contains the source code for the <a href="https://oprec.himarpl.org">oprec.himarpl.org</a> website. It is built using <a href="https://nextjs.org">Next.js</a>, a <a href="https://react.dev/">React Framework</a>.
+This repository contains the source code for the <a href="https://pengurus26.himarpl.org">pengurus26.himarpl.org</a> website. It is built using <a href="https://nextjs.org">Next.js</a>, a <a href="https://react.dev/">React Framework</a>.
 
 ## Deployment
 
